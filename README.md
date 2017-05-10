@@ -1,4 +1,4 @@
-#Hello World Ethereum Dapp
+## Hello World Ethereum Dapp ##
 
 A well-documented hello world ethereum dapp tutorial.
 
